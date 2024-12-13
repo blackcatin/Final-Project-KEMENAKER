@@ -1,3 +1,39 @@
 [
-
-  ]
+  {
+    "title": "Grilled Chicken",
+    "price": 57.000,
+    "description": "Delicious dish made with fresh ingredients.",
+    "img": "img1"
+  },
+  {
+    "title": "Savory Grilled Feast",
+    "price": 75.000,
+    "description": "A savory dish that's perfect for any occasion.",
+    "img": "img1"
+  },
+  {
+    "title": "Spicy Pasta Treat",
+    "price": 53.000,
+    "description": "A sweet and spicy treat for your taste buds.",
+    "img": "img1"
+  },
+  {
+    "title": "Herbed Chicken",
+    "price": 51.000,
+    "description": "A hearty dish with a rich flavor profile.",
+    "img": "img1"
+  },
+  {
+    "title": "Exotic Veggie Mix",
+    "price": 41.000,
+    "description": "A light and refreshing dish to start your meal.",
+    "img": "img1"
+  },
+  {
+    "title": "Spiced Tandoori",
+    "price": 63.000,
+    "description": "A comforting dish full of warmth and flavor.",
+    "img": "img1"
+  }
+  
+]
