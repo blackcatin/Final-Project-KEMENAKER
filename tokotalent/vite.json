@@ -5,8 +5,7 @@
         "NPM_CONFIG_PROGRESS": "false"
       },
       "commands": {
-        "install": "npm ci",
-        "build": "npm run build"
+         "build": "chmod +x node_modules/.bin/vite && npm run build"
       }
     }
   }
